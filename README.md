@@ -5,6 +5,6 @@
 ### Script Folders
 
 ```sh
-Fan Speed Control - a script to update the fan speed via API.npm i
-UniFi - scripts to manage UniFi controller
+/fan-control - Scripts to update the fan speed via the DSM API
+/unifi - Scripts to manage UniFi controller
 ```
